@@ -271,7 +271,7 @@ export default function Home() {
           className='pt-[60px] sm:pt-[110px] flex justify-center'
           data-aos='zoom-in'>
           <button
-            className='group flex items-center gap-[8px] text-[16px] sm:text-[24px] font-body bg-white text-[#2D714A] hover:bg-[#2D714A] hover:text-white px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#2D714A] transition-one'
+            className='group flex items-center gap-[8px] text-[16px] sm:text-[24px] font-body bg-[#BD820F] text-[#000] hover:bg-[#000] hover:text-white px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#000] transition-one'
             onClick={() => {
               router.push('/Products');
             }}>
@@ -290,25 +290,15 @@ export default function Home() {
             <span className='text-[#696A77]'>ARE WE?</span>
           </h1>
           <p className='text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal text-justify'>
-            kagon Technologies Limited is a distinguished Indigenous Nigerian
-            Agro-Allied Company cultivated from a wealth of Agriculture,
-            Freight, and Logistics expertise. Our journey encompasses various
-            agricultural domains, including Poultry Farming, Aquaculture,
-            Piggeries, and Vegetable Farming. With a seasoned management team
-            boasting over 30 years of hands-on experience, we bring a unique
-            blend of proficiency to the dynamic agro-allied landscape. We are
-            more than just a company; we are passionate stewards of sustainable
-            agricultural practices, unwavering champions of innovation, and
-            dedicated contributors to Nigeria{"'"}s economic development. At
-            kagon Technologies Limited, our identity is forged by a steadfast
-            commitment to excellence, a customer-centric ethos, and a visionary
-            pursuit of leading Nigeria{"'"}s agricultural value chain. Join us
-            on this exciting journey of growth and sustainability!
+          At Kagon Technologies Limited, we are pioneers in the realm of IoT innovation, driven by a passion for transforming industries and enriching lives through connected solutions. Founded on a commitment to excellence and forward-thinking, we harness cutting-edge technology to create intelligent ecosystems that revolutionize how businesses operate and individuals interact with their environments.
+          <br />
+          <br />
+          Our team comprises visionary engineers, data scientists, and industry experts dedicated to pushing the boundaries of what&apos;s possible with IoT. With a relentless focus on innovation, integrity, and collaboration, we strive to deliver bespoke solutions tailored to the unique needs of each client and sector we serve.
           </p>
         </div>
         <div className='w-[100%] px-[20px] sm:px-0' data-aos='fade-left'>
           <Image
-            src='/assets/whoarewe.png'
+            src='/assets/whoarewe.jpg'
             width={1500}
             height={500}
             alt=''
@@ -339,25 +329,16 @@ export default function Home() {
             </span>
           </h1>
           <p className='text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal pt-[10px] text-justify'>
-            We are a prominent Indigenous Nigerian Agro-Allied Company with over
-            30 years of hands-on experience in Agriculture, Freight, and
-            Logistics, is a leader in Poultry Farming, Aquaculture, Piggeries,
-            and Vegetable Farming. Distinguished by its commitment to fairtrade
-            practices, sustainability, and innovation, the company aims to be a
-            trailblazer in Nigeria{"'"}s agricultural value chain. Beyond being
-            a company, we see ourselves as stewards of sustainable agricultural
-            practices, strategically focusing on excellence, customer
-            satisfaction, and environmental stewardship. Through a diversified
-            portfolio and a vision to reshape the agricultural landscape, Kagon
-            Technologies Limited strives to provide high-quality products and
-            services that positively impact the communities it serves, making it
-            the ideal partner for those dedicated to excellence and positive
-            change in Nigeria{"'"}s agro-allied industry.
+          At Kagon Technologies, innovation is at the heart of everything we do. We&apos;re not just creating products; we&apos;re shaping the future of technology. Our relentless pursuit of groundbreaking solutions ensures that our clients always stay ahead of the curve.
+
+Expertise and Experience: With years of experience in the IoT industry, we bring a wealth of knowledge and expertise to every project. Our team of seasoned professionals is equipped to tackle even the most complex challenges, delivering results that exceed expectations.
+
+Customized Approach: We understand that every business is unique. That&apos;s why we take a customized approach to each project, tailoring our solutions to fit the specific needs and goals of our clients. From initial consultation to implementation and beyond, we&apos;re with you every step of the way.
           </p>
         </div>
         <div className='w-[100%] px-[20px] sm:px-0' data-aos='fade-right'>
           <Image
-            src='/assets/whybonbridge.png'
+            src='/assets/whybonbridge.jpg'
             width={1500}
             height={500}
             alt=''

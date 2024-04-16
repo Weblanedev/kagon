@@ -53,7 +53,7 @@ const Products = () => {
                         <div className='text-white absolute z-[1] top-[200px] lg:top-[205px] left-[20px] lg:left-[145px] flex flex-col items-center sm:block'>
                             <div className='text-[46px] sm:text-[96px] font-heading leading-normal text-center sm:text-left'>
                                 <h1>Smartly Cultivated,</h1>
-                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Worldwide Connected.</h1>
+                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Globally Shipped.</h1>
                             </div>
                             <p className='text-[16px] sm:text-[20px] text-center sm:text-left font-body leading-normal -translate-y-[25px] sm:-translate-y-[70px] w-[90%] sm:w-[60%]'>Our commitment to quality, freshness, and ethical farming sets us apart as your go-to source for premium agricultural products.</p>
                         </div>
@@ -63,7 +63,7 @@ const Products = () => {
                         <div className='text-white absolute z-[1] top-[200px] lg:top-[205px] left-[20px] lg:left-[145px] flex flex-col items-center sm:block'>
                             <div className='text-[46px] sm:text-[96px] font-heading leading-normal text-center sm:text-left'>
                                 <h1>Smartly Cultivated,</h1>
-                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Worldwide Connected.</h1>
+                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Globally Shipped.</h1>
                             </div>
                             <p className='text-[16px] sm:text-[20px] text-center sm:text-left font-body leading-normal -translate-y-[25px] sm:-translate-y-[70px] w-[90%] sm:w-[60%]'>Our commitment to quality, freshness, and ethical farming sets us apart as your go-to source for premium agricultural products.</p>
                         </div>
@@ -73,7 +73,7 @@ const Products = () => {
                         <div className='text-white absolute z-[1] top-[200px] lg:top-[205px] left-[20px] lg:left-[145px] flex flex-col items-center sm:block'>
                             <div className='text-[46px] sm:text-[96px] font-heading leading-normal text-center sm:text-left'>
                                 <h1>Smartly Cultivated,</h1>
-                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Worldwide Connected.</h1>
+                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Globally Shipped.</h1>
                             </div>
                             <p className='text-[16px] sm:text-[20px] text-center sm:text-left font-body leading-normal -translate-y-[25px] sm:-translate-y-[70px] w-[90%] sm:w-[60%]'>Our commitment to quality, freshness, and ethical farming sets us apart as your go-to source for premium agricultural products.</p>
                         </div>
