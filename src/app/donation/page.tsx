@@ -317,7 +317,7 @@ const Donation = () => {
               type="submit"
               disabled={isButtonDisabled}
               onClick={handleSubmit}
-              className={`group gap-[8px] mt-[30px] w-[100%] text-center text-[16px] sm:text-[24px] font-body bg-white text-[#2D714A] ${!isButtonDisabled && 'hover:bg-[#2D714A] hover:text-white'} px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#2D714A] transition-one`}>
+              className={`group gap-[8px] mt-[30px] w-[100%] text-center text-[16px] sm:text-[24px] font-body bg-white text-[#BD820F] ${!isButtonDisabled && 'hover:bg-[#BD820F] hover:text-white'} px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#BD820F] transition-one`}>
               Donate
             </button>
           </form>

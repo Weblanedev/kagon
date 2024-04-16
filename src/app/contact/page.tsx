@@ -75,7 +75,7 @@ const Contact = () => {
           <h1 className="font-medium md:font-semibold text-[50px] sm:text-[40px] md:text-[50px] md:text-left leading-snug md:leading-[62px] text-center text-orange-950">
             Contact Us
           </h1>
-          <p>Find the best way to get help and connect with kagon Technologies</p>
+          <p>Find the best way to get help and connect with Stockbridge Technologies</p>
         </div>
       </section>
 
@@ -146,7 +146,7 @@ const Contact = () => {
                 type="submit"
                 disabled={isButtonDisabled}
                 onClick={toggleShowContactModal}
-                className={`group gap-[8px] mt-[30px] w-[100%] text-center text-[16px] sm:text-[24px] font-body bg-white text-[#2D714A] ${!isButtonDisabled && 'hover:bg-[#2D714A] hover:text-white'} px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#2D714A] transition-one`}>
+                className={`group gap-[8px] mt-[30px] w-[100%] text-center text-[16px] sm:text-[24px] font-body bg-white text-[#BD820F] ${!isButtonDisabled && 'hover:bg-[#BD820F] hover:text-white'} px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#BD820F] transition-one`}>
                 Submit
               </button>
             </form>
@@ -175,7 +175,7 @@ const Contact = () => {
                 Mail Us
               </h4>
               <p className="text-[#BD820F] leading-[16px]">
-                support@kagontechnologies.com
+                support@Stockbridgetechnologies.com
               </p>
             </div>
           </div>

@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 import Faq from './components/Faq'
 
 export const metadata: Metadata = {
-  title: 'kagon',
+  title: 'Stockbridge',
   description: 'Technology made easy',
 }
 

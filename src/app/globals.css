@@ -8,7 +8,7 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
-  --navBg: #BD820F;
+  --navBg: #bd820f;
 }
 
 * {
@@ -17,7 +17,7 @@
   box-sizing: border-box;
   overscroll-behavior-y: none;
   overscroll-behavior: none;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
@@ -50,7 +50,7 @@
 }
 
 .contact-us {
-  background: linear-gradient(0deg, #BD820F 43.31%, #BD820F60 67.94%, rgba(36, 96, 62, 0.00) 90.43%, rgba(32, 89, 57, 0.00) 109.69%), url(/assets/footer.png);
+  /* background: linear-gradient(0deg, #BD820F 43.31%, #BD820F60 67.94%, rgba(36, 96, 62, 0.00) 90.43%, rgba(32, 89, 57, 0.00) 109.69%), url(/assets/footer.png); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -21,8 +21,8 @@ const Header = () => {
                 <Image src="/assets/logo.png" width={84} height={45} alt="Logo" className="w-[84px] h-[45px] object-cover" />
             </div>
             <Nav className="container mx-auto hidden lg:flex relative">
-                <div className='absolute z-[2] -translate-x-[32px] left-0'>
-                    <p>kagon</p>
+                <div className='absolute z-[2] -translate-x-[32px] left-0' onClick={()=>router.push('/')}>
+                    <p>Stockbridge</p>
                 </div>
                 <Link href="/">
                     <p>Home</p>

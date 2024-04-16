@@ -135,7 +135,7 @@ export default function Home() {
               </h1>
               <p className='text-[#696969] group-hover:text-white font-body text-[12px] font-[400] leading-normal'>
                 Ready to grow together? Contact us, and let{"'"}s kickstart your
-                iOT journey with Kagon Technologies Limited.
+                iOT journey with Stockbridge Technologies Limited.
               </p>
             </div>
           </div>
@@ -164,7 +164,7 @@ export default function Home() {
                 Contact Us
               </h1>
               <p className='text-[#696969] group-hover:text-white font-body text-[12px] font-[400] leading-normal'>
-                Reach out to kagon Technologies Limited today, Let{"'"}s chat
+                Reach out to Stockbridge Technologies Limited today, Let{"'"}s chat
                 about partnerships, and more – we{"'"}re
                 here to help!
               </p>
@@ -290,7 +290,7 @@ export default function Home() {
             <span className='text-[#696A77]'>ARE WE?</span>
           </h1>
           <p className='text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal text-justify'>
-          At Kagon Technologies Limited, we are pioneers in the realm of IoT innovation, driven by a passion for transforming industries and enriching lives through connected solutions. Founded on a commitment to excellence and forward-thinking, we harness cutting-edge technology to create intelligent ecosystems that revolutionize how businesses operate and individuals interact with their environments.
+          At Stockbridge Technologies Limited, we are pioneers in the realm of IoT innovation, driven by a passion for transforming industries and enriching lives through connected solutions. Founded on a commitment to excellence and forward-thinking, we harness cutting-edge technology to create intelligent ecosystems that revolutionize how businesses operate and individuals interact with their environments.
           <br />
           <br />
           Our team comprises visionary engineers, data scientists, and industry experts dedicated to pushing the boundaries of what&apos;s possible with IoT. With a relentless focus on innovation, integrity, and collaboration, we strive to deliver bespoke solutions tailored to the unique needs of each client and sector we serve.
@@ -325,11 +325,11 @@ export default function Home() {
           <h1 className='text-[40px]  text-center lg:text-start sm:text-[64px] xl:text-[72px] font-heading leading-normal pb-[20px]'>
             <span className='text-[#21222E]'>WHY </span>
             <span className='text-[#696A77] uppercase'>
-              kagon Technologies{' '}
+              Stockbridge Technologies{' '}
             </span>
           </h1>
           <p className='text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal pt-[10px] text-justify'>
-          At Kagon Technologies, innovation is at the heart of everything we do. We&apos;re not just creating products; we&apos;re shaping the future of technology. Our relentless pursuit of groundbreaking solutions ensures that our clients always stay ahead of the curve.
+          At Stockbridge Technologies, innovation is at the heart of everything we do. We&apos;re not just creating products; we&apos;re shaping the future of technology. Our relentless pursuit of groundbreaking solutions ensures that our clients always stay ahead of the curve.
 
 Expertise and Experience: With years of experience in the IoT industry, we bring a wealth of knowledge and expertise to every project. Our team of seasoned professionals is equipped to tackle even the most complex challenges, delivering results that exceed expectations.
 
@@ -358,7 +358,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
         </div>
       </section>
 
-      <section className='mt-[100px] container mx-auto'>
+      {/* <section className='mt-[100px] container mx-auto'>
         <h1
           className='text-[40px] font-heading leading-[47px] sm:text-[64px] lg:text-[80px] sm:leading-normal text-center'
           data-aos='fade-up'>
@@ -370,7 +370,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
           data-aos='fade-up'
           data-aos-duration='1000'>
           Discover the stories that define us. Explore what our valued clients
-          say about their kagon Technologies experience. Share your review and
+          say about their Stockbridge Technologies experience. Share your review and
           join our growing community of satisfied customers.
         </p>
         <div className='pt-[50px] sm:pt-[100px] block lg:hidden'>
@@ -403,7 +403,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Emeka Nwosu
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    I am incredibly pleased with my experience with Kagon
+                    I am incredibly pleased with my experience with Stockbridge
                     Technologies Limited, the dedication and passion that goes
                     into every aspect of their operation.
                   </p>
@@ -427,7 +427,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Adeoluwa Balogun
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    Kagon Technologies Limited is a gem in the world of farming.
+                    Stockbridge Technologies Limited is a gem in the world of farming.
                     The care and attention they put into their operation are
                     truly remarkable. From the lush fields to the impeccable
                     packaging, every detail is considered.
@@ -452,10 +452,10 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Ngozi Adeyemi
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    Working with Kagon Technologies Limited has been a delight.
+                    Working with Stockbridge Technologies Limited has been a delight.
                     Their team{"'"}s dedication to providing top-notch products
                     and services is evident in every interaction. I highly
-                    recommend Kagon Technologies Limited to anyone who values
+                    recommend Stockbridge Technologies Limited to anyone who values
                     excellence and integrity in agriculture.
                   </p>
                 </div>
@@ -478,7 +478,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Funmilayo Olumide,
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    I can{"'"}t express how impressed I am with Kagon
+                    I can{"'"}t express how impressed I am with Stockbridge
                     Technologies Limited. Their dedication to providing the best
                     possible products while maintaining a focus on environmental
                     sustainability is truly admirable.
@@ -505,7 +505,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                   <p className='text-[#696969] text-[19px]'>
                     The flavors of their produce are a testament to the care and
                     passion that go into every step of their farming process.
-                    Kagon Technologies Limited has set a new standard for
+                    Stockbridge Technologies Limited has set a new standard for
                     excellence in agriculture.
                   </p>
                 </div>
@@ -544,7 +544,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Emeka Nwosu
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    I am incredibly pleased with my experience with Kagon
+                    I am incredibly pleased with my experience with Stockbridge
                     Technologies Limited, the dedication and passion that goes
                     into every aspect of their operation.
                   </p>
@@ -568,7 +568,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Adeoluwa Balogun
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    Kagon Technologies Limited is a gem in the world of farming.
+                    Stockbridge Technologies Limited is a gem in the world of farming.
                     The care and attention they put into their operation are
                     truly remarkable. From the lush fields to the impeccable
                     packaging, every detail is considered.
@@ -593,10 +593,10 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Ngozi Adeyemi
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    Working with Kagon Technologies Limited has been a delight.
+                    Working with Stockbridge Technologies Limited has been a delight.
                     Their team{"'"}s dedication to providing top-notch products
                     and services is evident in every interaction. I highly
-                    recommend Kagon Technologies Limited to anyone who values
+                    recommend Stockbridge Technologies Limited to anyone who values
                     excellence and integrity in agriculture.
                   </p>
                 </div>
@@ -619,7 +619,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                     Funmilayo Olumide,
                   </h1>
                   <p className='text-[#696969] text-[19px]'>
-                    I can{"'"}t express how impressed I am with Kagon
+                    I can{"'"}t express how impressed I am with Stockbridge
                     Technologies Limited. Their dedication to providing the best
                     possible products while maintaining a focus on environmental
                     sustainability is truly admirable.
@@ -646,7 +646,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
                   <p className='text-[#696969] text-[19px]'>
                     The flavors of their produce are a testament to the care and
                     passion that go into every step of their farming process.
-                    Kagon Technologies Limited has set a new standard for
+                    Stockbridge Technologies Limited has set a new standard for
                     excellence in agriculture.
                   </p>
                 </div>
@@ -654,7 +654,7 @@ Customized Approach: We understand that every business is unique. That&apos;s wh
             </SwiperSlide>
           </Swiper>
         </div>
-      </section>
+      </section> */}
     </main>
   );
 }
