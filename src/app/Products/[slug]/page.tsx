@@ -95,7 +95,7 @@ const SingleProductPage = (query: { params: { slug: any } }) => {
                                                     <p className='text-[16px] font-body py-[15px]'>${e?.UsePrice}
                                                     </p>
                                                 </div>
-                                                <button className='group flex items-center gap-[8px] text-[16px] sm:text-[24px] font-body bg-white text-[#2D714A] hover:bg-[#2D714A] hover:text-white px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#2D714A] transition-one' onClick={() => purchase(e?.UseHeaderText, e.UseImage.asset._ref, e?.UsePrice)}>
+                                                <button className='group flex items-center gap-[8px] text-[16px] sm:text-[24px] font-body bg-white text-[#BD820F] hover:bg-[#BD820F] hover:text-white px-[30px] sm:px-[97px] py-[15px] sm:py-[21px] border border-[#BD820F] transition-one' onClick={() => purchase(e?.UseHeaderText, e.UseImage.asset._ref, e?.UsePrice)}>
                                                     Purchase
                                                 </button>
                                             </div>
