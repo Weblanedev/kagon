@@ -11,7 +11,7 @@ const MobileMenu = ({ setState }: MobileMenuProps) => {
     const router = useRouter()
     const path = usePathname()
     return (
-        <div className='bg-[#1E4A31] h-dvh absolute w-[100%] left-0 font-body text-white top-0'>
+        <div className='bg-[#BD820F] h-dvh absolute w-[100%] left-0 font-body text-white top-0'>
             <div className='flex flex-col text-[20px] gap-[70px] items-center pt-[130px]'>
                 <p onClick={() => {
                     router.push('/')

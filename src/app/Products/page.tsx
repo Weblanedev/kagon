@@ -94,7 +94,7 @@ const Products = () => {
                                 return (
                                     <div key={id} className='cursor-pointer relative group hover:scale-[1.03] transition-one'>
                                         <Image src={urlFor(e.ProductImage.asset._ref).url()} width={1500} height={500} alt="" objectFit='contain' className="w-[387px] h-[476px] 2xl:h-[476px] object-cover group-hover:scale-[1.03] shadow-md" data-aos="fade-right" />
-                                        <div className='text-[#1E4A31] bg-[#EBF7EC] h-[143px] items-center justify-center text-[36px] underline font-body absolute z-[1] bottom-0 w-[100%] opacity-0 group-hover:opacity-100 flex transition-one'>
+                                        <div className='text-[#BD820F] bg-[#EBF7EC] h-[143px] items-center justify-center text-[36px] underline font-body absolute z-[1] bottom-0 w-[100%] opacity-0 group-hover:opacity-100 flex transition-one'>
                                             <Link href={`/Products/${e._id}`}>
                                                 <h1 data-aos="zoom-in">{e.ProductName}</h1>
                                             </Link>
@@ -111,7 +111,7 @@ const Products = () => {
                         return (
                             <div className='cursor-pointer relative group' key={id}>
                                 <Image src={urlFor(e.ProductImage.asset._ref).url()} width={1500} height={500} alt="" objectFit='contain' className="w-[100%] h-[370px] object-cover" />
-                                <div className='text-[#1E4A31] bg-[#EBF7EC] h-[80px] items-center justify-center text-[20px] font-body absolute z-[1] bottom-0 w-[100%] flex'>
+                                <div className='text-[#BD820F] bg-[#EBF7EC] h-[80px] items-center justify-center text-[20px] font-body absolute z-[1] bottom-0 w-[100%] flex'>
                                     <Link href={`/Products/${e._id}`}>
                                         <h1 data-aos="zoom-in">{e.ProductName}</h1>
                                     </Link>

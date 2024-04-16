@@ -16,7 +16,7 @@ const Header = () => {
     const router = useRouter()
     const path = usePathname()
     return (
-        <header className='fixed w-[100%] z-[2] lg:bg-[#1E4A31] flex items-center justify-between px-[20px] bg-white py-[25px] sm:py-[47px] top-0'>
+        <header className='fixed w-[100%] z-[2] lg:bg-[#BD820F] flex items-center justify-between px-[20px] bg-white py-[25px] sm:py-[47px] top-0'>
             <div className='w-[100%] relative z-[2] lg:hidden'>
                 <Image src="/assets/logo.png" width={84} height={45} alt="Logo" className="w-[84px] h-[45px] object-cover" />
             </div>

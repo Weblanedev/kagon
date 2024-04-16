@@ -8,7 +8,7 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
-  --navBg: #1E4A31;
+  --navBg: #BD820F;
 }
 
 * {
@@ -50,7 +50,7 @@
 }
 
 .contact-us {
-  background: linear-gradient(0deg, #1E4A31 43.31%, rgba(36, 92, 60, 0.60) 67.94%, rgba(36, 96, 62, 0.00) 90.43%, rgba(32, 89, 57, 0.00) 109.69%), url(/assets/contactus.png);
+  background: linear-gradient(0deg, #BD820F 43.31%, rgba(36, 92, 60, 0.60) 67.94%, rgba(36, 96, 62, 0.00) 90.43%, rgba(32, 89, 57, 0.00) 109.69%), url(/assets/contactus.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

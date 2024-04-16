@@ -351,7 +351,7 @@ const Billing = () => {
               your experience throughout this website, and for other purposes
               described in our{" "}
               <Link
-                href="/privacy-policy"
+                href="/about"
                 className="text-[#a20401] cursor-pointer"
               >
                 privacy policy.

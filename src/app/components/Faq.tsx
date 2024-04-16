@@ -14,10 +14,10 @@ const Faq = () => {
             <div className='container mx-auto flex flex-col lg:flex-row items-center gap-[20px] sm:gap-[20px] lg:gap-[40px] xl:gap-[214px]'>
                 <div className='w-[100%] px-[20px]' data-aos="fade-up">
                     <div>
-                        <h1 className='capitalize text-center sm:text-left text-[48px] sm:text-[64px] xl:text-[72px] text-[#1E4A31] font-heading leading-normal pb-[15px]'>
+                        <h1 className='capitalize text-center sm:text-left text-[48px] sm:text-[64px] xl:text-[72px] text-[#BD820F] font-heading leading-normal pb-[15px]'>
                             frequently asked
                         </h1>
-                        <h1 className='-translate-y-[30px] sm:-translate-y-[50px] capitalize text-center sm:text-left text-[48px] sm:text-[72px] text-[#1E4A31] font-heading leading-normal pb-[15px]'>
+                        <h1 className='-translate-y-[30px] sm:-translate-y-[50px] capitalize text-center sm:text-left text-[48px] sm:text-[72px] text-[#BD820F] font-heading leading-normal pb-[15px]'>
                             questions</h1>
                     </div>
                     <p className='-translate-y-[30px] font-body text-[16px] sm:text-[20px] leading-normal sm:-translate-y-[70px] text-[#696969] text-center sm:text-left'>Our commitment to quality, freshness, and ethical farming sets us apart as your go-to source for premium agricultural products.</p>

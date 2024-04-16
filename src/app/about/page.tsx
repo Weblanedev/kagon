@@ -18,7 +18,7 @@ const About = () => {
                     <Image src="/assets/home13.webp" width={1500} height={500} alt="" objectFit='contain' className="w-[100%] h-[550px] 2xl:h-[750px] object-cover sm:px-0" />
                 </div>
             </section>
-            <section className='bg-[#1E4A31] py-[50px] sm:py-[160px] text-white mt-[50px] sm:mt-[100px] overflow-hidden'>
+            <section className='bg-[#BD820F] py-[50px] sm:py-[160px] text-white mt-[50px] sm:mt-[100px] overflow-hidden'>
                 <div className='container mx-auto px-[20px]'>
                     <div className='text-white flex flex-col lg:flex-row justify-between gap-[0px] xl:gap-[205px] items-center'>
                         <div className='font-heading text-[48px] sm:text-[64px] w-[100%] leading-normal' data-aos="fade-right">
