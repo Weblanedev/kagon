@@ -17,7 +17,7 @@ const Footer = () => {
                     <h1 className='text-[20px] leading-normal pt-[20px] text-white w-[280px] uppercase text-3xl font-[600] text-left'>kagon Technologies Limited</h1>
                 </div>
                 <div className='flex flex-col gap-[20px] text-[20px] w-[100%]'>
-                    <h1 className='text-[#49D94F] leading-normal'>Home</h1>
+                    <h1 className='text-[#DEB055] leading-normal'>Home</h1>
                     <div className='text-white flex flex-col gap-[20px]'>
                         <p className='cursor-pointer' onClick={() => { router.push("/about") }}>About Us</p>
                         <p className='cursor-pointer' onClick={() => { router.push("/Products") }}>Products</p>
@@ -25,7 +25,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className='flex flex-col gap-[20px] text-[20px] w-[100%]'>
-                    <h1 className='text-[#49D94F] leading-normal'>Product</h1>
+                    <h1 className='text-[#DEB055] leading-normal'>Product</h1>
                     <div className='text-white flex flex-col gap-[20px]'>
                         <p className='cursor-pointer' onClick={() => { router.push(`/contact`) }}>Request a Quote</p>
                         <p className='cursor-pointer' onClick={() => { router.push(`/contact`) }}>Contact Us</p>
@@ -34,15 +34,15 @@ const Footer = () => {
                 </div>
                 <div className='w-[100%] lg:text-right text-[20px]'>
                     <div>
-                        <h1 className='text-[#49D94F] leading-normal'>Address 1</h1>
+                        <h1 className='text-[#DEB055] leading-normal'>Address 1</h1>
                         <p className='text-white'>OZOEBUBECHUKWU COMPOUND, AGBANA VILLAGE, AWKA-SOUTH</p>
                     </div>
                     <div className='py-[20px]'>
-                        <h1 className='text-[#49D94F] leading-normal'>Operating Address</h1>
+                        <h1 className='text-[#DEB055] leading-normal'>Operating Address</h1>
                         <p className='text-white'>6 ONITANA STREET, OFF MOBOLAJI JOHNSON, IKOYI, LAGOS</p>
                     </div>
                     <div>
-                        <h1 className='text-[#49D94F] leading-normal'>Email</h1>
+                        <h1 className='text-[#DEB055] leading-normal'>Email</h1>
                         <p className='text-white'>info@kagontech.com</p>
                     </div>
                 </div>

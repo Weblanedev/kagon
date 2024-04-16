@@ -41,7 +41,7 @@ const Products = () => {
                         <Image src="https://res.cloudinary.com/dqew5naa7/image/upload/v1705222393/Rectangle_5901_7_zmtv3q.webp" width={1500} height={500} alt="" objectFit='contain' className="w-[100%] h-[600px] 2xl:h-[800px] object-cover brightness-75" />
                         <div className='text-white absolute z-[1] top-[200px] lg:top-[205px] left-[10px] lg:left-[145px] flex flex-col items-center sm:block'>
                             <div className='text-[46px] sm:text-[96px] font-heading leading-normal text-center sm:text-left'>
-                                <h1>Sustainably Grown,</h1>
+                                <h1>Smartly Cultivated,</h1>
                                 <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Nourish Your Lifestyle!
                                 </h1>
                             </div>
@@ -52,8 +52,8 @@ const Products = () => {
                         <Image src="https://res.cloudinary.com/dqew5naa7/image/upload/v1705222619/Rectangle_5901_hwjpyv.webp" width={1500} height={500} alt="" objectFit='contain' className="w-[100%] h-[600px] 2xl:h-[800px] object-cover brightness-75" />
                         <div className='text-white absolute z-[1] top-[200px] lg:top-[205px] left-[20px] lg:left-[145px] flex flex-col items-center sm:block'>
                             <div className='text-[46px] sm:text-[96px] font-heading leading-normal text-center sm:text-left'>
-                                <h1>Sustainably Grown,</h1>
-                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Globally Shipped.</h1>
+                                <h1>Smartly Cultivated,</h1>
+                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Worldwide Connected.</h1>
                             </div>
                             <p className='text-[16px] sm:text-[20px] text-center sm:text-left font-body leading-normal -translate-y-[25px] sm:-translate-y-[70px] w-[90%] sm:w-[60%]'>Our commitment to quality, freshness, and ethical farming sets us apart as your go-to source for premium agricultural products.</p>
                         </div>
@@ -62,8 +62,8 @@ const Products = () => {
                         <Image src="https://res.cloudinary.com/dqew5naa7/image/upload/v1705222276/Rectangle_5901_10_hlxu1z.webp" width={1500} height={500} alt="" objectFit='contain' className="w-[100%] h-[600px] 2xl:h-[800px] object-cover brightness-75" />
                         <div className='text-white absolute z-[1] top-[200px] lg:top-[205px] left-[20px] lg:left-[145px] flex flex-col items-center sm:block'>
                             <div className='text-[46px] sm:text-[96px] font-heading leading-normal text-center sm:text-left'>
-                                <h1>Sustainably Grown,</h1>
-                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Globally Shipped.</h1>
+                                <h1>Smartly Cultivated,</h1>
+                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Worldwide Connected.</h1>
                             </div>
                             <p className='text-[16px] sm:text-[20px] text-center sm:text-left font-body leading-normal -translate-y-[25px] sm:-translate-y-[70px] w-[90%] sm:w-[60%]'>Our commitment to quality, freshness, and ethical farming sets us apart as your go-to source for premium agricultural products.</p>
                         </div>
@@ -72,8 +72,8 @@ const Products = () => {
                         <Image src="https://res.cloudinary.com/dqew5naa7/image/upload/v1705222944/Rectangle_5901_c3uztc.png" width={1500} height={500} alt="" objectFit='contain' className="w-[100%] h-[600px] 2xl:h-[800px] object-cover brightness-75" />
                         <div className='text-white absolute z-[1] top-[200px] lg:top-[205px] left-[20px] lg:left-[145px] flex flex-col items-center sm:block'>
                             <div className='text-[46px] sm:text-[96px] font-heading leading-normal text-center sm:text-left'>
-                                <h1>Sustainably Grown,</h1>
-                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Globally Shipped.</h1>
+                                <h1>Smartly Cultivated,</h1>
+                                <h1 className='-translate-y-[23px] sm:-translate-y-[50px]'>Worldwide Connected.</h1>
                             </div>
                             <p className='text-[16px] sm:text-[20px] text-center sm:text-left font-body leading-normal -translate-y-[25px] sm:-translate-y-[70px] w-[90%] sm:w-[60%]'>Our commitment to quality, freshness, and ethical farming sets us apart as your go-to source for premium agricultural products.</p>
                         </div>
@@ -83,8 +83,8 @@ const Products = () => {
 
             <section className="mt-[100px] container mx-auto sm:px-[20px] xl:px-0">
                 <h1 className="text-[40px] font-heading leading-[47px] sm:text-[80px] sm:leading-normal text-center" data-aos="fade-up">
-                    <span className="text-[#714E2D]">OUR</span>{" "}
-                    <span className="text-[#EE821F]">PRODUCTS</span>
+                    <span className="text-[#696A77]">OUR</span>{" "}
+                    <span className="text-[#21222E]">PRODUCTS</span>
                 </h1>
                 <p className="text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal font-[400] w-[80%] lg:w-[60%] mx-auto text-center" data-aos="fade-up" data-aos-duration="1000">From the rich flavors of dried Hibiscus leaves to the nutritional powerhouse of Sesame seeds, explore our carefully curated selection, showcasing the essence of eco-friendly farming. Discover the quality and freshness that sets Kagon Technologies Limited Ltd{"'"}s products apart.</p>
                 <div className='pt-[100px] hidden lg:flex flex-col items-center justify-center gap-[100px]'>
@@ -125,8 +125,8 @@ const Products = () => {
             <section className='pt-[50px] sm:pt-[100px] mt-[50px] sm:mt-[100px] flex flex-col lg:flex-row gap-[40px] sm:gap-[100px] items-center overflow-hidden'>
                 <div className='w-[100%] px-[20px] xl:pl-[80px] 2xl:pl-[127px]' data-aos="fade-right">
                     <div className='text-[40px]  text-center sm:text-start sm:text-[72px] font-heading leading-normal pb-[20px]'>
-                        <h1 className='text-[#EE821F]'>WE DELIVER TO </h1>
-                        <h1 className='text-[#714E2D] -translate-y-[20px] sm:-translate-y-[40px]'> YOUR DOORSTEP</h1>
+                        <h1 className='text-[#21222E]'>WE DELIVER TO </h1>
+                        <h1 className='text-[#696A77] -translate-y-[20px] sm:-translate-y-[40px]'> YOUR DOORSTEP</h1>
                     </div>
                     <p className='text-[#696969] -translate-y-[40px] font-body text-[16px] sm:text-[20px] leading-normal pt-[10px] text-justify'>Experience the convenience of timely and reliable deliveries to your doorstep, no matter where you are. From the heart of our warehouse to destinations across the globe, we ensure your packages reach you with precision and care.</p>
                     <div className='pt-[40px] -translate-y-[40px] flex justify-center sm:justify-start'>

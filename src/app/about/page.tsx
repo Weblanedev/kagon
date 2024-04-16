@@ -8,7 +8,7 @@ const About = () => {
             <section className='pt-[50px] sm:pt-[100px] mt-[50px] sm:mt-[100px] flex flex-col lg:flex-row gap-[40px] xl:gap-[100px] items-center overflow-hidden'>
                 <div className='w-[100%] px-[20px] sm:pl-[20px] xl:pl-[80px] 2xl:pl-[127px]' data-aos="fade-right">
                     <div className='text-[40px]  text-center lg:text-start sm:text-[64px] lg:text-[72px] font-heading leading-normal pb-[20px]'>
-                        <h1 className='text-[#EE821F]'>ABOUT </h1><h1 className='text-[#714E2D] -translate-y-[20px] sm:-translate-y-[40px] uppercase'>kagon Technologies</h1></div>
+                        <h1 className='text-[#21222E]'>ABOUT </h1><h1 className='text-[#696A77] -translate-y-[20px] sm:-translate-y-[40px] uppercase'>kagon Technologies</h1></div>
                     <p className='text-[#696969] font-body -translate-y-[30px] sm:-translate-y-[55px] text-[16px] sm:text-[20px] leading-normal text-justify'>Kagon Technologies Limited, an Indigenous Nigerian Agro-Allied Company was birth from a culmination of extensive experience in the Agricultural, Freight and Logistics industry. The company, having delved into various aspects of agriculture including Poultry Farming, Aquaculture, Piggeries and Vegetable Farming and with Management staff with over 30 years of hands-on experience in International Trade, Freight and Logistics, and identifying the areas where our expertise would be best suited, nurtured the vision to become one of Nigeria{"’"}s foremost Agricultural Value chain enterprises, enshrining a culture of excellence and customer satisfaction.
                     </p>
                     <p className='text-[#696969] font-body -translate-y-[30px] sm:-translate-y-[55px] text-[16px] sm:text-[20px] leading-normal pt-[10px] text-justify'>Driven by a commitment to value addition and sustainability, we forged partnerships with smallholder farmers across rural areas, providing them with training in sustainable agriculture while managing our own farms. Over the past 2 years, we{"'"}ve successfully exported various agri-produce during our Pilot test phase, experiencing substantial growth that enabled us to secure $1.5 million in capital this year from investors.
@@ -49,7 +49,7 @@ const About = () => {
                             return (
                                 <div key={id}>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33" fill="none">
-                                        <path d={e.path} fill="#49D94F" />
+                                        <path d={e.path} fill="#DEB055" />
                                     </svg>
                                     <h1 className='text-[20px] font-body font-[500] py-[15px]'>{e.header}</h1>
                                     <p className='text-[16px] font-body'>Call us on 08056518383 to speak directly with our dedicated team. We are ready to guide you through the steps to become a Max Lotto agent and answer any questions you may have.
@@ -64,7 +64,7 @@ const About = () => {
 
             <section className='pt-[50px] sm:pt-[100px] mt-[50px] sm:mt-[100px] flex flex-col lg:flex-row gap-[40px] xl:gap-[100px] items-center overflow-hidden'>
                 <div className='w-[100%] px-[20px] sm:pl-[20px] xl:pl-[80px] 2xl:pl-[127px]' data-aos="fade-right">
-                    <h1 className='text-[40px]  text-center lg:text-start sm:text-[64px] lg:text-[72px] font-heading leading-normal pb-[20px]'><span className='text-[#EE821F]'>Our </span><span className='text-[#714E2D]'>MISSION</span></h1>
+                    <h1 className='text-[40px]  text-center lg:text-start sm:text-[64px] lg:text-[72px] font-heading leading-normal pb-[20px]'><span className='text-[#21222E]'>Our </span><span className='text-[#696A77]'>MISSION</span></h1>
                     <p className='text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal text-justify'>Our Mission is a simple but brave one – “Satisfy the Market”. We realize that in trying to fulfill this mission, we will enshrine fairtrade practice, good corporate governance, and execute our CSR which is centered around Human Capital Development which is our “Growing Communities.” Building upon our steadfast mission to {"'"}Satisfy the Market{"'"}, we are committed to embodying values that go beyond mere commercial success. At the core of our mission lies the dedication to fairtrade practices, ensuring that every interaction within the market is characterized by transparency, equity, and ethical conduct. By prioritizing fairtrade, we aim not only to meet the demands of our customers but also to contribute to a sustainable and just business ecosystem.
                     </p>
                 </div>
@@ -75,7 +75,7 @@ const About = () => {
 
             <section className='pt-[50px] sm:pt-[100px] mt-[50px] sm:mt-[100px] flex flex-col lg:flex-row-reverse gap-[40px] xl:gap-[100px] items-center overflow-hidden'>
                 <div className='w-[100%] px-[20px] sm:pr-[20px] xl:pr-[80px] 2xl:pr-[127px]' data-aos="fade-left">
-                    <h1 className='text-[40px]  text-center lg:text-start sm:text-[64px] xl:text-[72px] font-heading leading-normal pb-[20px]'><span className='text-[#EE821F]'>Our </span><span className='text-[#714E2D] uppercase'>Vision </span></h1>
+                    <h1 className='text-[40px]  text-center lg:text-start sm:text-[64px] xl:text-[72px] font-heading leading-normal pb-[20px]'><span className='text-[#21222E]'>Our </span><span className='text-[#696A77] uppercase'>Vision </span></h1>
                     <p className='text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal pt-[10px] text-justify'>Our vision is to be sustainably reliable and reliably sustainable while becoming a partner of choice for global agricultural supply chain solutions, emphasizing the West African subregion within the next decade. With a leadership team boasting over 30 years of hands-on experience in International Trade, Freight, and Logistics, our vision is to create a harmonious agricultural value chain that not only meets the diverse needs of our customers but also fosters economic growth and empowerment within the communities we serve. Kagon Technologies Limited Ltd aims to be a beacon of excellence, driving positive change in the agricultural sector and contributing significantly to Nigeria{"'"}s food security and economic development.</p></div>
                 <div className='w-[100%] px-[20px] sm:px-0' data-aos="fade-right">
                     <Image src="/assets/whybonbridge.png" width={1500} height={500} alt="" objectFit='contain' className="w-[100%] h-[550px] 2xl:h-[750px] object-cover sm:px-0" />
@@ -86,8 +86,8 @@ const About = () => {
                 <div className='container mx-auto px-[20px]'>
                     <div className='flex flex-col lg:flex-row justify-between gap-[0px] xl:gap-[205px] items-center'>
                         <div className='text-[48px] sm:text-[64px] font-heading leading-normal w-[100%]' data-aos="fade-right">
-                            <h1 className='text-[#EE821F]'>OUR VALUES </h1>
-                            <h1 className='text-[#714E2D] -translate-y-[20px] sm:-translate-y-[35px] uppercase'> AT kagon</h1></div>
+                            <h1 className='text-[#21222E]'>OUR VALUES </h1>
+                            <h1 className='text-[#696A77] -translate-y-[20px] sm:-translate-y-[35px] uppercase'> AT kagon</h1></div>
                         <p className='font-body text-[16px] leading-normal w-[100%] text-justify' data-aos="fade-left">Driven by a commitment to value addition and sustainability, we forged partnerships with smallholder farmers across rural areas, providing them with training in sustainable agriculture while managing our own farms. Over the past 2 years, we{"'"}ve successfully exported various agri-produce during our Pilot test phase, experiencing substantial growth that enabled us to secure $1.5 million in capital this year from investors.
                         </p>
                     </div>
@@ -112,7 +112,7 @@ const About = () => {
                             return (
                                 <div key={id}>
                                     <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33" fill="none">
-                                        <path d={e.path} fill="#EE821F" />
+                                        <path d={e.path} fill="#21222E" />
                                     </svg>
                                     <h1 className='text-[20px] font-body font-[500] py-[15px]'>{e.header}</h1>
                                     <p className='text-[16px] font-body'>Call us on 08056518383 to speak directly with our dedicated team. We are ready to guide you through the steps to become a Max Lotto agent and answer any questions you may have.
