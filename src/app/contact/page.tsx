@@ -75,7 +75,7 @@ const Contact = () => {
           <h1 className="font-medium md:font-semibold text-[50px] sm:text-[40px] md:text-[50px] md:text-left leading-snug md:leading-[62px] text-center text-orange-950">
             Contact Us
           </h1>
-          <p>Find the best way to get help and connect with Itaja Innovations</p>
+          <p>Find the best way to get help and connect with kagon Technologies</p>
         </div>
       </section>
 
@@ -86,7 +86,7 @@ const Contact = () => {
             <h2 className="text-[35px] font-medium">Schedule Meeting</h2>
             <p className="text-[16px] text-black leading-[28.8px] font-normal w-full text-center">
               We live to provide innovative solutions to problems like yours.
-              Let's talk.
+              Let&apos;s talk.
             </p>
           </div>
 

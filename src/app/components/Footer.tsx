@@ -14,7 +14,7 @@ const Footer = () => {
 
             <div className='container mx-auto px-[20px] sm:px-[60px] font-body flex flex-col lg:flex-row gap-[40px] pt-[20px]'>
                 <div className='w-[100%] hidden sm:block'>
-                    <h1 className='text-[20px] leading-normal pt-[20px] text-white w-[280px] uppercase text-3xl font-[600] text-left'>Itaja Innovations Limited</h1>
+                    <h1 className='text-[20px] leading-normal pt-[20px] text-white w-[280px] uppercase text-3xl font-[600] text-left'>kagon Technologies Limited</h1>
                 </div>
                 <div className='flex flex-col gap-[20px] text-[20px] w-[100%]'>
                     <h1 className='text-[#49D94F] leading-normal'>Home</h1>
@@ -43,12 +43,12 @@ const Footer = () => {
                     </div>
                     <div>
                         <h1 className='text-[#49D94F] leading-normal'>Email</h1>
-                        <p className='text-white'>info@Itaja Innovationsfarms.com</p>
+                        <p className='text-white'>info@kagontech.com</p>
                     </div>
                 </div>
                 <div className='w-[100%] block sm:hidden'>
                     <Image src="/assets/logo.png" width={201} height={194} alt="" objectFit='contain' className="w-[201px] h-[192px] object-cover" />
-                    <h1 className='text-[20px] leading-normal pt-[20px] text-white w-[280px]'>Itaja Innovations Limited AND ALLIED INTEGRATED LIMITED</h1>
+                    <h1 className='text-[20px] leading-normal pt-[20px] text-white w-[280px]'>kagon Technologies Limited AND ALLIED INTEGRATED LIMITED</h1>
                 </div>
             </div>
             <div className='container mx-auto px-[20px] sm:px-[60px] font-body flex flex-col lg:flex-row gap-[40px] pt-[20px]'>

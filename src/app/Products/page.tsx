@@ -86,7 +86,7 @@ const Products = () => {
                     <span className="text-[#714E2D]">OUR</span>{" "}
                     <span className="text-[#EE821F]">PRODUCTS</span>
                 </h1>
-                <p className="text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal font-[400] w-[80%] lg:w-[60%] mx-auto text-center" data-aos="fade-up" data-aos-duration="1000">From the rich flavors of dried Hibiscus leaves to the nutritional powerhouse of Sesame seeds, explore our carefully curated selection, showcasing the essence of eco-friendly farming. Discover the quality and freshness that sets Itaja Innovations Limited Ltd{"'"}s products apart.</p>
+                <p className="text-[#696969] font-body text-[16px] sm:text-[20px] leading-normal font-[400] w-[80%] lg:w-[60%] mx-auto text-center" data-aos="fade-up" data-aos-duration="1000">From the rich flavors of dried Hibiscus leaves to the nutritional powerhouse of Sesame seeds, explore our carefully curated selection, showcasing the essence of eco-friendly farming. Discover the quality and freshness that sets Kagon Technologies Limited Ltd{"'"}s products apart.</p>
                 <div className='pt-[100px] hidden lg:flex flex-col items-center justify-center gap-[100px]'>
                     <div className='grid grid-cols-3 gap-[40px]'>
                         {

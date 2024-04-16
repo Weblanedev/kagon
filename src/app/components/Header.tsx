@@ -22,7 +22,7 @@ const Header = () => {
             </div>
             <Nav className="container mx-auto hidden lg:flex relative">
                 <div className='absolute z-[2] -translate-x-[32px] left-0'>
-                    <p>ITAJA</p>
+                    <p>kagon</p>
                 </div>
                 <Link href="/">
                     <p>Home</p>
