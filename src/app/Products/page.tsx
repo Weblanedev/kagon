@@ -19,6 +19,7 @@ const Products = () => {
   const { data } = useSWR(url, fetcher);
   const router = useRouter();
   const path = usePathname();
+console.log(data?.result)
 
   return (
     <main>
@@ -78,7 +79,7 @@ const Products = () => {
         </p>
         <div className='pt-[100px] hidden lg:flex flex-col items-center justify-center gap-[100px]'>
           <div className='grid grid-cols-3 gap-[40px]'>
-            {data?.result?.filter((e:any) => e._id).map((e: any, id: React.Key | null | undefined) => {
+            {data?.result?.slice(0, 3).map((e: any, id: React.Key | null | undefined) => {
               return (
                 <div
                   key={id}
